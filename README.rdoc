@@ -1,6 +1,6 @@
 = newrelic-cassandra
 
-* http://github.com/ryangraham/newrelic-cassandra
+{<img src="https://badge.fury.io/rb/newrelic-cassandra.svg" alt="Gem Version" />}[http://badge.fury.io/rb/newrelic-cassandra]
 
 == DESCRIPTION:
 
